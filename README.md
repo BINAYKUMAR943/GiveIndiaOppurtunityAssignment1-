@@ -1,2 +1,2 @@
-# GiveIndiaOppurtunityAssignment1-
-Just download the folder and run it in your System. All required jars are already added in the folder. My chromer version is 76 so my chrome drive is synchronous to it. You might have to change your chrome driver according to your chrome version.
+# GiveIndiaOppurtunityAssignment
+Just download the folder and run it in your system . All jars and chrome driver are available in this folder. My chrome version is Chrome 76 and driver is according to it, so you might need to change driver according to your chrome version.
